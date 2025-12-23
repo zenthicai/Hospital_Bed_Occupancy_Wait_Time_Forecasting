@@ -1,0 +1,11 @@
+5. Outcome / Target Variables: The prediction goals.
+
+Wait_Time_to_Bed (in minutes/hours → target variable)
+
+ICU_Occupancy_Rate (%) at admission time
+
+ER_Crowding_Level (Low, Medium, High)
+
+Length_of_Stay (LOS) (hours/days)
+
+Discharge_Status (Recovered, Referred, Expired)
