@@ -192,7 +192,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # File Path
-file_path = r"C:\AI Projects for Learners\Healthcare\Hospital_Bed_Occupancy_Wait_Time_Forecasting\Data\Data_Model\Hospital_Bed_Occupancy.csv"
+file_path = r"https:\github.com\zenthicai\Hospital_Bed_Occupancy_Wait_Time_Forecasting\Data\Data_Model\Hospital_Bed_Occupancy.csv"
 
 st.markdown(" ")
 st.markdown(" ")
@@ -1717,3 +1717,4 @@ st.plotly_chart(fig_resid, use_container_width=True)
 st.markdown(" ")
 
 st.markdown(" ")
+
