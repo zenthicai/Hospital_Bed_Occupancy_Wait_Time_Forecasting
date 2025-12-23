@@ -1,0 +1,1001 @@
+Admission_Type,Primary_Diagnosis,Severity_Score,Arrival_Mode,Department,Bed_Type,Special_Requests,Referral_Source
+Emergency,N18,3,Ambulance,ICU,Pediatric,,Self
+Emergency,I10,2,Referral,General Medicine,Pediatric,Isolation,Other Hospital
+Emergency,I10,1,Referral,ER,General,,Clinic
+Trauma,J18,3,Ambulance,ICU,General,,Clinic
+Emergency,E11,2,Walk-in,ICU,Pediatric,,Self
+Emergency,C34,1,Referral,ICU,Pediatric,Ventilator,Other Hospital
+Emergency,S72,5,Ambulance,General Medicine,HDU,,Clinic
+Urgent,E11,2,Ambulance,General Medicine,HDU,Isolation,Clinic
+Elective,I10,1,Walk-in,ER,Pediatric,,Clinic
+Elective,E11,4,Ambulance,Surgery,General,,Clinic
+Emergency,I10,4,Ambulance,ICU,ICU,,Self
+Elective,E11,1,Walk-in,ICU,General,,Other Hospital
+Emergency,J18,3,Referral,ER,General,,Clinic
+Urgent,K35,3,Walk-in,ICU,HDU,,Self
+Elective,J18,2,Walk-in,General Medicine,HDU,Ventilator,Clinic
+Emergency,J18,4,Ambulance,General Medicine,HDU,,Clinic
+Emergency,K35,3,Ambulance,ICU,Pediatric,Ventilator,Clinic
+Emergency,K35,3,Walk-in,ICU,Pediatric,,Clinic
+Emergency,C34,4,Ambulance,General Medicine,General,,Self
+Emergency,S72,5,Referral,ICU,General,,Other Hospital
+Elective,S72,3,Ambulance,General Medicine,ICU,,Self
+Emergency,C34,1,Ambulance,Surgery,General,Ventilator,Self
+Emergency,J18,2,Ambulance,Surgery,General,,Self
+Emergency,J18,3,Referral,ICU,HDU,,Clinic
+Emergency,I10,3,Ambulance,ICU,HDU,,Other Hospital
+Urgent,I10,5,Ambulance,ICU,HDU,Dialysis,Clinic
+Emergency,S72,1,Ambulance,General Medicine,HDU,,Self
+Elective,C34,2,Referral,Surgery,HDU,,Clinic
+Urgent,N18,3,Ambulance,Surgery,ICU,,Other Hospital
+Elective,N18,2,Ambulance,ER,ICU,,Other Hospital
+Urgent,C34,4,Ambulance,ER,ICU,,Clinic
+Emergency,I10,3,Walk-in,ICU,HDU,Ventilator,Self
+Trauma,S72,3,Ambulance,General Medicine,Pediatric,Isolation,Clinic
+Emergency,S72,4,Ambulance,ICU,HDU,,Self
+Emergency,I10,5,Ambulance,Surgery,HDU,Ventilator,Other Hospital
+Elective,N18,3,Walk-in,ICU,ICU,,Clinic
+Trauma,E11,2,Walk-in,ICU,HDU,,Other Hospital
+Urgent,E11,1,Walk-in,Surgery,ICU,,Self
+Emergency,I10,2,Referral,Surgery,HDU,,Self
+Emergency,E11,5,Referral,Surgery,General,,Clinic
+Trauma,K35,1,Ambulance,Surgery,Pediatric,Isolation,Clinic
+Emergency,C34,2,Walk-in,ER,Pediatric,,Clinic
+Urgent,C34,2,Walk-in,General Medicine,ICU,,Other Hospital
+Urgent,I10,4,Referral,General Medicine,General,,Self
+Emergency,J18,5,Ambulance,Surgery,Pediatric,,Self
+Emergency,N18,4,Walk-in,General Medicine,ICU,Isolation,Other Hospital
+Emergency,I10,1,Ambulance,General Medicine,HDU,,Clinic
+Emergency,E11,4,Referral,General Medicine,HDU,Isolation,Clinic
+Urgent,N18,5,Ambulance,General Medicine,General,Ventilator,Other Hospital
+Emergency,J18,3,Ambulance,Surgery,Pediatric,,Self
+Urgent,E11,3,Ambulance,ICU,HDU,,Self
+Emergency,S72,1,Ambulance,ICU,ICU,,Self
+Trauma,K35,3,Walk-in,ICU,HDU,,Self
+Emergency,E11,4,Ambulance,ER,HDU,,Other Hospital
+Emergency,K35,1,Ambulance,General Medicine,Pediatric,,Self
+Emergency,N18,5,Referral,Surgery,Pediatric,,Other Hospital
+Urgent,K35,1,Ambulance,Surgery,ICU,,Clinic
+Elective,N18,1,Walk-in,ER,General,,Other Hospital
+Urgent,N18,2,Ambulance,Surgery,General,,Self
+Emergency,N18,2,Ambulance,ICU,HDU,,Clinic
+Emergency,N18,1,Referral,ER,ICU,,Other Hospital
+Elective,N18,3,Walk-in,Surgery,General,,Other Hospital
+Emergency,E11,2,Ambulance,ER,General,,Other Hospital
+Emergency,N18,5,Referral,ER,HDU,Dialysis,Clinic
+Trauma,E11,4,Referral,Surgery,ICU,,Other Hospital
+Trauma,N18,2,Referral,ICU,General,,Self
+Trauma,K35,1,Ambulance,Surgery,Pediatric,,Clinic
+Urgent,S72,3,Ambulance,General Medicine,Pediatric,,Clinic
+Emergency,N18,4,Walk-in,General Medicine,HDU,,Other Hospital
+Emergency,J18,2,Walk-in,Surgery,HDU,,Self
+Elective,N18,3,Ambulance,ICU,HDU,,Clinic
+Urgent,N18,3,Walk-in,General Medicine,HDU,,Other Hospital
+Emergency,K35,3,Ambulance,General Medicine,General,Isolation,Self
+Emergency,C34,1,Ambulance,Surgery,ICU,,Other Hospital
+Emergency,K35,5,Ambulance,Surgery,HDU,,Other Hospital
+Elective,J18,3,Walk-in,Surgery,HDU,,Clinic
+Urgent,C34,4,Ambulance,ER,General,,Clinic
+Urgent,I10,2,Referral,ER,HDU,,Other Hospital
+Emergency,I10,4,Walk-in,ER,HDU,,Clinic
+Trauma,J18,1,Walk-in,Surgery,ICU,Isolation,Clinic
+Elective,K35,1,Referral,ICU,Pediatric,,Self
+Emergency,E11,4,Walk-in,General Medicine,HDU,,Self
+Emergency,J18,5,Referral,ER,General,,Other Hospital
+Emergency,S72,1,Ambulance,ICU,ICU,Isolation,Other Hospital
+Emergency,C34,1,Ambulance,Surgery,General,,Other Hospital
+Trauma,C34,4,Ambulance,ER,ICU,Ventilator,Other Hospital
+Emergency,N18,1,Ambulance,Surgery,ICU,,Self
+Urgent,I10,5,Referral,ICU,HDU,Isolation,Clinic
+Emergency,C34,5,Ambulance,ER,HDU,,Self
+Emergency,J18,5,Walk-in,ER,HDU,,Other Hospital
+Emergency,C34,2,Walk-in,ER,Pediatric,Dialysis,Other Hospital
+Emergency,J18,5,Walk-in,ER,Pediatric,Ventilator,Self
+Emergency,E11,5,Ambulance,ICU,General,,Self
+Trauma,N18,2,Walk-in,ER,HDU,Ventilator,Other Hospital
+Elective,I10,3,Ambulance,General Medicine,Pediatric,,Clinic
+Elective,C34,1,Ambulance,General Medicine,HDU,,Other Hospital
+Emergency,J18,5,Walk-in,Surgery,Pediatric,,Self
+Emergency,K35,1,Walk-in,ER,Pediatric,,Other Hospital
+Emergency,I10,4,Ambulance,General Medicine,ICU,Isolation,Other Hospital
+Elective,E11,1,Referral,General Medicine,HDU,,Clinic
+Emergency,J18,2,Ambulance,General Medicine,HDU,,Other Hospital
+Emergency,S72,1,Ambulance,ICU,Pediatric,,Other Hospital
+Elective,S72,1,Ambulance,ER,HDU,,Other Hospital
+Emergency,N18,1,Walk-in,ICU,Pediatric,,Self
+Emergency,N18,3,Walk-in,ICU,HDU,Isolation,Self
+Emergency,E11,3,Ambulance,General Medicine,ICU,,Clinic
+Trauma,E11,4,Ambulance,General Medicine,HDU,,Other Hospital
+Elective,N18,2,Walk-in,Surgery,ICU,,Self
+Emergency,C34,1,Ambulance,ER,General,,Clinic
+Emergency,C34,1,Ambulance,ER,HDU,,Other Hospital
+Trauma,J18,1,Walk-in,General Medicine,HDU,Ventilator,Clinic
+Elective,K35,1,Ambulance,General Medicine,HDU,,Clinic
+Emergency,J18,3,Referral,ER,ICU,,Clinic
+Urgent,K35,4,Ambulance,Surgery,HDU,,Clinic
+Emergency,E11,5,Walk-in,General Medicine,HDU,,Clinic
+Elective,I10,2,Ambulance,Surgery,Pediatric,,Clinic
+Elective,J18,1,Referral,ICU,General,,Clinic
+Emergency,J18,4,Ambulance,General Medicine,ICU,,Other Hospital
+Trauma,K35,5,Walk-in,ICU,Pediatric,Ventilator,Other Hospital
+Urgent,E11,4,Walk-in,General Medicine,ICU,,Clinic
+Elective,E11,3,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,S72,5,Ambulance,General Medicine,General,,Clinic
+Emergency,K35,4,Walk-in,Surgery,Pediatric,,Other Hospital
+Emergency,E11,3,Referral,Surgery,ICU,,Self
+Urgent,N18,4,Ambulance,Surgery,HDU,Isolation,Clinic
+Emergency,C34,4,Ambulance,ICU,HDU,,Self
+Elective,S72,5,Referral,Surgery,General,,Clinic
+Urgent,N18,3,Ambulance,ICU,ICU,,Clinic
+Emergency,I10,1,Referral,General Medicine,ICU,,Self
+Elective,J18,2,Walk-in,ICU,ICU,,Self
+Emergency,S72,5,Walk-in,General Medicine,General,Isolation,Self
+Trauma,I10,3,Ambulance,ER,HDU,Dialysis,Clinic
+Emergency,J18,4,Ambulance,ER,Pediatric,,Self
+Emergency,C34,3,Walk-in,ER,General,,Self
+Emergency,E11,2,Referral,ICU,Pediatric,,Other Hospital
+Emergency,N18,2,Referral,ER,HDU,,Other Hospital
+Urgent,K35,1,Ambulance,ER,General,,Self
+Urgent,N18,1,Ambulance,ER,HDU,,Self
+Elective,C34,2,Ambulance,General Medicine,Pediatric,,Self
+Emergency,I10,5,Referral,Surgery,ICU,,Self
+Emergency,K35,5,Ambulance,ICU,ICU,,Other Hospital
+Emergency,E11,4,Ambulance,ER,Pediatric,,Clinic
+Elective,C34,1,Ambulance,General Medicine,ICU,,Self
+Urgent,K35,4,Ambulance,Surgery,Pediatric,,Self
+Emergency,C34,1,Referral,Surgery,General,,Other Hospital
+Emergency,C34,2,Walk-in,Surgery,General,Ventilator,Self
+Elective,E11,5,Ambulance,General Medicine,General,Isolation,Self
+Urgent,S72,5,Ambulance,ER,ICU,Isolation,Other Hospital
+Urgent,J18,2,Ambulance,Surgery,HDU,,Self
+Urgent,K35,4,Ambulance,General Medicine,ICU,Ventilator,Self
+Emergency,E11,4,Ambulance,General Medicine,ICU,Isolation,Other Hospital
+Emergency,C34,3,Walk-in,ICU,HDU,,Clinic
+Urgent,E11,1,Ambulance,General Medicine,HDU,,Self
+Elective,S72,4,Ambulance,Surgery,HDU,Isolation,Self
+Emergency,J18,2,Ambulance,Surgery,HDU,,Clinic
+Urgent,N18,4,Walk-in,General Medicine,ICU,,Other Hospital
+Urgent,K35,5,Walk-in,Surgery,Pediatric,,Clinic
+Elective,J18,1,Walk-in,General Medicine,General,,Self
+Elective,I10,3,Walk-in,Surgery,Pediatric,Dialysis,Clinic
+Emergency,K35,1,Walk-in,ICU,ICU,,Other Hospital
+Elective,J18,5,Ambulance,ER,HDU,,Self
+Elective,C34,5,Referral,ICU,General,Dialysis,Other Hospital
+Urgent,K35,5,Ambulance,ICU,General,,Other Hospital
+Urgent,K35,5,Ambulance,ER,Pediatric,,Clinic
+Urgent,E11,2,Walk-in,Surgery,ICU,,Clinic
+Emergency,C34,3,Ambulance,ER,ICU,,Other Hospital
+Urgent,I10,5,Referral,General Medicine,ICU,,Other Hospital
+Urgent,N18,5,Ambulance,ER,General,,Self
+Elective,S72,4,Referral,ICU,Pediatric,,Other Hospital
+Urgent,J18,3,Referral,ER,General,,Other Hospital
+Urgent,E11,1,Referral,Surgery,General,,Clinic
+Emergency,J18,3,Referral,ICU,HDU,,Other Hospital
+Elective,I10,3,Referral,General Medicine,Pediatric,,Other Hospital
+Emergency,I10,3,Walk-in,Surgery,HDU,,Clinic
+Emergency,K35,5,Ambulance,ICU,ICU,,Self
+Elective,S72,5,Ambulance,General Medicine,General,,Clinic
+Urgent,I10,2,Walk-in,Surgery,Pediatric,,Clinic
+Emergency,J18,1,Referral,General Medicine,ICU,Ventilator,Other Hospital
+Emergency,C34,4,Walk-in,ER,Pediatric,,Other Hospital
+Elective,C34,3,Referral,ER,General,,Self
+Emergency,K35,1,Referral,General Medicine,Pediatric,,Other Hospital
+Emergency,N18,1,Ambulance,ER,ICU,Dialysis,Self
+Emergency,J18,2,Ambulance,General Medicine,HDU,,Self
+Emergency,J18,4,Ambulance,Surgery,General,,Self
+Emergency,I10,3,Ambulance,ICU,HDU,,Self
+Emergency,S72,4,Walk-in,General Medicine,General,,Other Hospital
+Emergency,J18,2,Referral,ICU,ICU,,Clinic
+Urgent,E11,5,Walk-in,ICU,General,,Clinic
+Elective,N18,1,Ambulance,General Medicine,HDU,,Other Hospital
+Urgent,I10,3,Ambulance,ER,General,,Other Hospital
+Emergency,E11,5,Ambulance,Surgery,ICU,,Self
+Emergency,K35,2,Walk-in,ICU,General,,Other Hospital
+Urgent,C34,4,Ambulance,Surgery,HDU,,Clinic
+Emergency,K35,1,Ambulance,ICU,ICU,,Other Hospital
+Emergency,C34,3,Ambulance,General Medicine,HDU,,Other Hospital
+Elective,K35,5,Ambulance,ER,General,Isolation,Self
+Elective,J18,5,Referral,Surgery,Pediatric,,Self
+Emergency,E11,1,Ambulance,ICU,HDU,,Self
+Emergency,C34,4,Ambulance,General Medicine,General,Isolation,Self
+Elective,I10,2,Ambulance,General Medicine,Pediatric,,Clinic
+Emergency,E11,4,Ambulance,ICU,Pediatric,,Other Hospital
+Elective,I10,4,Walk-in,ICU,ICU,,Other Hospital
+Urgent,E11,4,Walk-in,ICU,Pediatric,,Self
+Trauma,E11,1,Ambulance,ER,HDU,,Clinic
+Emergency,K35,1,Walk-in,ICU,HDU,,Clinic
+Urgent,C34,2,Ambulance,ICU,Pediatric,Ventilator,Other Hospital
+Elective,C34,4,Walk-in,ER,General,,Self
+Emergency,S72,1,Ambulance,General Medicine,HDU,Isolation,Other Hospital
+Emergency,E11,2,Ambulance,ICU,HDU,,Other Hospital
+Urgent,J18,2,Walk-in,Surgery,ICU,,Clinic
+Emergency,J18,4,Referral,General Medicine,General,,Clinic
+Emergency,I10,3,Walk-in,Surgery,Pediatric,,Other Hospital
+Emergency,I10,4,Ambulance,ICU,General,,Self
+Urgent,K35,3,Ambulance,ER,ICU,,Self
+Urgent,E11,2,Referral,ER,ICU,,Other Hospital
+Urgent,I10,1,Ambulance,ER,General,Dialysis,Other Hospital
+Emergency,I10,5,Ambulance,ICU,ICU,,Self
+Emergency,N18,2,Ambulance,ICU,ICU,Ventilator,Self
+Elective,E11,1,Ambulance,Surgery,ICU,Dialysis,Self
+Emergency,K35,2,Ambulance,ER,General,,Other Hospital
+Emergency,I10,4,Ambulance,ICU,ICU,,Clinic
+Elective,K35,3,Ambulance,General Medicine,Pediatric,,Self
+Trauma,C34,2,Referral,ICU,Pediatric,,Self
+Urgent,K35,1,Ambulance,ICU,HDU,,Self
+Urgent,J18,4,Ambulance,General Medicine,Pediatric,Isolation,Other Hospital
+Trauma,J18,5,Walk-in,ER,HDU,,Clinic
+Emergency,K35,4,Walk-in,General Medicine,General,,Clinic
+Elective,J18,3,Ambulance,ER,ICU,Isolation,Self
+Trauma,C34,4,Referral,General Medicine,Pediatric,,Other Hospital
+Emergency,E11,5,Ambulance,Surgery,HDU,,Clinic
+Urgent,J18,1,Referral,ER,General,,Other Hospital
+Elective,J18,2,Ambulance,ICU,HDU,,Clinic
+Elective,K35,3,Ambulance,Surgery,ICU,,Self
+Elective,C34,5,Referral,ER,Pediatric,,Other Hospital
+Trauma,S72,3,Walk-in,ER,General,Isolation,Self
+Urgent,S72,4,Ambulance,ER,HDU,,Clinic
+Emergency,S72,3,Ambulance,General Medicine,General,Isolation,Clinic
+Urgent,S72,5,Ambulance,ER,HDU,,Self
+Emergency,E11,2,Walk-in,ICU,HDU,,Clinic
+Emergency,K35,2,Ambulance,ER,ICU,,Self
+Emergency,K35,3,Ambulance,ICU,ICU,,Self
+Emergency,N18,1,Ambulance,ICU,HDU,,Self
+Emergency,C34,3,Walk-in,ICU,Pediatric,,Clinic
+Trauma,S72,4,Referral,Surgery,General,,Other Hospital
+Urgent,E11,2,Walk-in,ICU,General,,Self
+Elective,C34,2,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,S72,2,Referral,ER,Pediatric,Ventilator,Clinic
+Trauma,E11,1,Walk-in,General Medicine,HDU,,Clinic
+Trauma,C34,1,Referral,Surgery,ICU,,Other Hospital
+Urgent,K35,5,Ambulance,ER,HDU,Isolation,Self
+Emergency,K35,3,Ambulance,ICU,HDU,,Clinic
+Emergency,I10,3,Walk-in,ER,ICU,,Self
+Emergency,J18,4,Ambulance,Surgery,Pediatric,,Self
+Emergency,S72,2,Walk-in,Surgery,General,,Other Hospital
+Emergency,N18,1,Referral,General Medicine,ICU,,Clinic
+Trauma,C34,4,Referral,ER,Pediatric,,Other Hospital
+Emergency,N18,4,Referral,ER,HDU,,Clinic
+Emergency,I10,1,Walk-in,ER,ICU,Ventilator,Other Hospital
+Emergency,J18,3,Ambulance,General Medicine,General,,Clinic
+Emergency,C34,2,Ambulance,Surgery,General,,Clinic
+Emergency,E11,3,Ambulance,ICU,HDU,,Clinic
+Emergency,S72,4,Walk-in,ER,ICU,,Self
+Emergency,J18,2,Ambulance,General Medicine,General,,Self
+Urgent,K35,5,Ambulance,General Medicine,ICU,Isolation,Other Hospital
+Trauma,I10,4,Walk-in,ICU,General,,Other Hospital
+Emergency,J18,3,Walk-in,Surgery,HDU,Isolation,Clinic
+Emergency,S72,3,Referral,ER,HDU,Isolation,Clinic
+Urgent,J18,3,Walk-in,ER,ICU,Isolation,Self
+Emergency,S72,1,Walk-in,General Medicine,Pediatric,,Self
+Emergency,K35,4,Walk-in,Surgery,Pediatric,,Self
+Urgent,C34,2,Referral,ER,HDU,,Other Hospital
+Emergency,E11,3,Walk-in,ICU,General,,Self
+Elective,K35,3,Referral,Surgery,Pediatric,Ventilator,Other Hospital
+Elective,E11,1,Referral,Surgery,HDU,,Self
+Emergency,C34,2,Referral,General Medicine,General,,Self
+Emergency,J18,4,Ambulance,General Medicine,General,,Clinic
+Urgent,E11,5,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,I10,1,Ambulance,General Medicine,HDU,Isolation,Self
+Emergency,I10,4,Ambulance,Surgery,General,,Clinic
+Urgent,S72,5,Ambulance,ER,General,,Other Hospital
+Elective,K35,3,Ambulance,ER,ICU,,Other Hospital
+Emergency,C34,3,Ambulance,Surgery,ICU,,Self
+Urgent,S72,2,Walk-in,ER,Pediatric,,Other Hospital
+Emergency,K35,5,Walk-in,ICU,ICU,,Clinic
+Urgent,K35,3,Ambulance,ICU,HDU,,Clinic
+Urgent,S72,3,Walk-in,ER,Pediatric,Isolation,Other Hospital
+Elective,N18,2,Walk-in,General Medicine,Pediatric,,Clinic
+Emergency,K35,4,Walk-in,ICU,ICU,,Other Hospital
+Trauma,N18,3,Referral,ER,General,,Clinic
+Emergency,I10,1,Ambulance,ICU,HDU,,Other Hospital
+Urgent,I10,1,Ambulance,General Medicine,HDU,,Other Hospital
+Emergency,K35,4,Ambulance,Surgery,HDU,,Other Hospital
+Emergency,I10,5,Ambulance,ER,Pediatric,,Clinic
+Emergency,C34,2,Walk-in,ER,HDU,Isolation,Other Hospital
+Trauma,N18,1,Ambulance,ER,General,Ventilator,Other Hospital
+Trauma,N18,1,Ambulance,ER,General,,Self
+Emergency,K35,4,Ambulance,ER,ICU,,Self
+Emergency,I10,5,Ambulance,ER,HDU,,Other Hospital
+Urgent,E11,5,Walk-in,General Medicine,Pediatric,,Self
+Emergency,S72,4,Walk-in,Surgery,ICU,,Other Hospital
+Emergency,S72,1,Ambulance,General Medicine,General,,Self
+Elective,N18,2,Ambulance,General Medicine,HDU,,Clinic
+Elective,K35,1,Ambulance,Surgery,General,,Clinic
+Trauma,K35,5,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,C34,1,Referral,ICU,General,,Other Hospital
+Emergency,J18,2,Ambulance,General Medicine,HDU,,Clinic
+Elective,J18,3,Walk-in,ER,HDU,Dialysis,Clinic
+Urgent,N18,1,Referral,ICU,ICU,Isolation,Self
+Elective,S72,4,Ambulance,ICU,HDU,,Other Hospital
+Elective,C34,3,Ambulance,Surgery,General,,Clinic
+Emergency,C34,4,Referral,General Medicine,General,Dialysis,Clinic
+Urgent,C34,4,Referral,General Medicine,Pediatric,,Other Hospital
+Emergency,N18,4,Ambulance,ICU,Pediatric,,Self
+Emergency,J18,1,Walk-in,General Medicine,Pediatric,,Self
+Elective,S72,5,Referral,General Medicine,General,,Self
+Emergency,C34,3,Ambulance,Surgery,General,,Self
+Emergency,S72,2,Referral,ICU,ICU,,Clinic
+Urgent,I10,5,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,K35,1,Walk-in,ICU,General,Ventilator,Other Hospital
+Urgent,K35,4,Referral,Surgery,ICU,,Clinic
+Emergency,S72,2,Referral,Surgery,General,,Clinic
+Urgent,E11,3,Ambulance,Surgery,ICU,Isolation,Clinic
+Emergency,E11,5,Ambulance,General Medicine,Pediatric,,Other Hospital
+Emergency,N18,5,Walk-in,ICU,Pediatric,,Other Hospital
+Trauma,N18,2,Walk-in,General Medicine,Pediatric,,Other Hospital
+Urgent,K35,1,Walk-in,General Medicine,General,,Self
+Emergency,I10,3,Referral,ICU,General,,Clinic
+Emergency,J18,2,Referral,Surgery,ICU,,Clinic
+Urgent,J18,4,Ambulance,ER,HDU,,Clinic
+Elective,N18,3,Ambulance,ER,HDU,Ventilator,Other Hospital
+Urgent,I10,5,Ambulance,ICU,Pediatric,,Clinic
+Urgent,N18,2,Walk-in,ICU,HDU,,Clinic
+Emergency,J18,5,Walk-in,Surgery,Pediatric,Ventilator,Self
+Emergency,S72,5,Walk-in,ICU,ICU,Ventilator,Other Hospital
+Elective,N18,5,Ambulance,ICU,HDU,,Clinic
+Emergency,C34,1,Ambulance,Surgery,HDU,,Other Hospital
+Emergency,S72,5,Ambulance,Surgery,Pediatric,Isolation,Other Hospital
+Trauma,N18,4,Walk-in,General Medicine,ICU,Dialysis,Other Hospital
+Elective,K35,4,Ambulance,ICU,HDU,,Self
+Urgent,N18,3,Ambulance,ER,HDU,Isolation,Other Hospital
+Elective,K35,5,Ambulance,ICU,HDU,,Other Hospital
+Elective,I10,5,Walk-in,ER,ICU,,Other Hospital
+Emergency,J18,2,Ambulance,ER,ICU,,Clinic
+Emergency,S72,1,Referral,ER,HDU,,Self
+Emergency,S72,3,Walk-in,General Medicine,Pediatric,Isolation,Clinic
+Emergency,E11,5,Walk-in,Surgery,Pediatric,,Self
+Urgent,E11,2,Walk-in,Surgery,HDU,Ventilator,Self
+Emergency,J18,1,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,E11,3,Ambulance,Surgery,HDU,,Other Hospital
+Emergency,S72,3,Referral,General Medicine,ICU,Dialysis,Clinic
+Emergency,N18,5,Walk-in,ICU,HDU,,Self
+Emergency,I10,3,Referral,General Medicine,ICU,,Other Hospital
+Emergency,I10,2,Walk-in,Surgery,General,,Other Hospital
+Emergency,J18,3,Ambulance,Surgery,Pediatric,,Other Hospital
+Emergency,E11,4,Ambulance,ICU,General,,Other Hospital
+Emergency,N18,2,Walk-in,General Medicine,Pediatric,,Clinic
+Urgent,I10,1,Ambulance,ICU,ICU,,Clinic
+Emergency,I10,1,Ambulance,ER,General,,Other Hospital
+Emergency,C34,5,Referral,General Medicine,Pediatric,,Other Hospital
+Elective,C34,5,Ambulance,ICU,HDU,,Other Hospital
+Emergency,S72,4,Ambulance,ICU,ICU,,Other Hospital
+Urgent,I10,1,Referral,Surgery,ICU,,Other Hospital
+Elective,J18,1,Referral,General Medicine,HDU,,Self
+Emergency,K35,1,Ambulance,ER,HDU,,Self
+Elective,K35,1,Referral,ER,Pediatric,,Self
+Emergency,N18,3,Referral,General Medicine,ICU,,Self
+Elective,I10,2,Ambulance,General Medicine,Pediatric,,Other Hospital
+Emergency,I10,2,Ambulance,ICU,HDU,Isolation,Self
+Urgent,S72,4,Ambulance,Surgery,ICU,Ventilator,Self
+Emergency,I10,3,Walk-in,Surgery,HDU,,Clinic
+Elective,J18,1,Ambulance,Surgery,Pediatric,,Self
+Elective,C34,1,Referral,General Medicine,Pediatric,,Self
+Emergency,I10,5,Walk-in,Surgery,Pediatric,Isolation,Other Hospital
+Emergency,I10,5,Walk-in,ICU,ICU,,Self
+Urgent,S72,4,Referral,General Medicine,HDU,Ventilator,Self
+Urgent,E11,1,Referral,General Medicine,HDU,,Other Hospital
+Emergency,S72,4,Ambulance,Surgery,Pediatric,,Self
+Urgent,S72,3,Ambulance,ER,Pediatric,Ventilator,Other Hospital
+Trauma,J18,2,Walk-in,ER,Pediatric,,Self
+Urgent,N18,1,Ambulance,ICU,Pediatric,,Clinic
+Emergency,I10,3,Ambulance,Surgery,General,,Clinic
+Urgent,S72,1,Walk-in,Surgery,General,,Self
+Emergency,S72,5,Referral,General Medicine,General,,Clinic
+Trauma,E11,4,Ambulance,General Medicine,Pediatric,Dialysis,Other Hospital
+Emergency,S72,5,Walk-in,Surgery,Pediatric,,Self
+Emergency,K35,2,Ambulance,General Medicine,HDU,,Other Hospital
+Urgent,N18,5,Walk-in,Surgery,ICU,,Clinic
+Emergency,I10,1,Ambulance,ICU,HDU,,Other Hospital
+Trauma,I10,5,Referral,General Medicine,General,,Clinic
+Trauma,E11,1,Ambulance,Surgery,HDU,,Clinic
+Elective,J18,2,Walk-in,General Medicine,Pediatric,,Clinic
+Emergency,I10,5,Ambulance,ICU,General,,Other Hospital
+Elective,K35,4,Ambulance,General Medicine,General,,Clinic
+Emergency,I10,4,Ambulance,Surgery,ICU,,Self
+Emergency,K35,4,Ambulance,General Medicine,ICU,,Clinic
+Urgent,N18,5,Ambulance,General Medicine,General,,Self
+Emergency,N18,5,Ambulance,Surgery,General,,Self
+Emergency,C34,5,Walk-in,ER,HDU,,Self
+Trauma,C34,1,Walk-in,General Medicine,General,Ventilator,Self
+Emergency,K35,2,Ambulance,General Medicine,Pediatric,,Other Hospital
+Emergency,J18,4,Walk-in,ICU,HDU,,Self
+Trauma,I10,1,Ambulance,ER,Pediatric,,Clinic
+Emergency,S72,4,Walk-in,ICU,Pediatric,,Self
+Urgent,I10,1,Ambulance,Surgery,Pediatric,Ventilator,Clinic
+Trauma,C34,5,Walk-in,Surgery,General,,Other Hospital
+Trauma,S72,4,Ambulance,ICU,ICU,,Self
+Elective,K35,5,Referral,General Medicine,ICU,,Clinic
+Emergency,S72,4,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,I10,3,Ambulance,ICU,General,Isolation,Other Hospital
+Urgent,I10,1,Ambulance,ICU,HDU,Isolation,Clinic
+Urgent,J18,3,Referral,Surgery,Pediatric,,Self
+Elective,E11,1,Walk-in,General Medicine,HDU,,Other Hospital
+Emergency,S72,2,Walk-in,ER,HDU,,Clinic
+Emergency,C34,4,Referral,ICU,General,,Self
+Emergency,C34,2,Referral,ER,General,,Other Hospital
+Urgent,E11,2,Walk-in,ER,ICU,,Clinic
+Emergency,I10,1,Ambulance,ICU,ICU,Ventilator,Other Hospital
+Trauma,J18,3,Referral,ER,General,,Other Hospital
+Urgent,J18,5,Ambulance,Surgery,Pediatric,Ventilator,Clinic
+Emergency,C34,1,Walk-in,General Medicine,ICU,,Other Hospital
+Elective,J18,5,Walk-in,General Medicine,HDU,,Clinic
+Emergency,N18,2,Walk-in,General Medicine,Pediatric,Isolation,Self
+Elective,E11,5,Walk-in,Surgery,HDU,Isolation,Clinic
+Urgent,I10,3,Walk-in,Surgery,General,,Self
+Urgent,N18,1,Referral,Surgery,HDU,,Other Hospital
+Urgent,E11,3,Ambulance,General Medicine,Pediatric,,Clinic
+Emergency,K35,3,Ambulance,ER,General,Ventilator,Clinic
+Emergency,S72,1,Walk-in,Surgery,Pediatric,Ventilator,Clinic
+Urgent,C34,3,Referral,ICU,HDU,Isolation,Clinic
+Emergency,J18,4,Ambulance,Surgery,Pediatric,,Self
+Emergency,K35,4,Ambulance,ICU,General,,Self
+Emergency,J18,4,Ambulance,General Medicine,HDU,,Other Hospital
+Elective,N18,5,Ambulance,ICU,HDU,,Other Hospital
+Emergency,I10,3,Referral,Surgery,ICU,Dialysis,Other Hospital
+Elective,I10,1,Walk-in,Surgery,ICU,,Other Hospital
+Trauma,I10,1,Walk-in,ER,Pediatric,,Clinic
+Emergency,J18,5,Walk-in,General Medicine,ICU,,Self
+Emergency,K35,1,Walk-in,ICU,ICU,,Self
+Emergency,I10,4,Ambulance,General Medicine,ICU,,Self
+Urgent,K35,3,Ambulance,Surgery,ICU,,Self
+Emergency,J18,1,Ambulance,ER,General,,Other Hospital
+Emergency,N18,1,Ambulance,Surgery,General,,Clinic
+Emergency,K35,2,Ambulance,Surgery,ICU,,Self
+Urgent,N18,2,Ambulance,Surgery,Pediatric,Isolation,Clinic
+Emergency,J18,2,Ambulance,ICU,General,,Clinic
+Urgent,J18,3,Ambulance,Surgery,ICU,Ventilator,Clinic
+Trauma,C34,4,Walk-in,General Medicine,General,,Clinic
+Emergency,J18,4,Ambulance,General Medicine,HDU,,Self
+Urgent,J18,4,Referral,ER,General,,Self
+Emergency,E11,3,Ambulance,General Medicine,General,Ventilator,Self
+Urgent,I10,3,Walk-in,Surgery,Pediatric,Isolation,Other Hospital
+Elective,C34,2,Referral,Surgery,General,,Self
+Urgent,S72,1,Referral,General Medicine,Pediatric,,Other Hospital
+Emergency,C34,5,Referral,ER,HDU,,Other Hospital
+Emergency,C34,5,Ambulance,ER,ICU,,Other Hospital
+Emergency,S72,1,Ambulance,General Medicine,Pediatric,,Self
+Emergency,E11,2,Ambulance,ICU,General,,Self
+Emergency,N18,1,Ambulance,ICU,General,,Self
+Emergency,J18,1,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,I10,5,Referral,ICU,HDU,,Other Hospital
+Emergency,K35,2,Walk-in,General Medicine,ICU,Dialysis,Clinic
+Urgent,S72,3,Walk-in,ER,General,Isolation,Other Hospital
+Emergency,N18,5,Referral,Surgery,HDU,,Other Hospital
+Emergency,S72,3,Walk-in,Surgery,ICU,Isolation,Self
+Emergency,J18,2,Walk-in,General Medicine,ICU,,Clinic
+Emergency,E11,1,Walk-in,Surgery,General,,Clinic
+Trauma,S72,4,Ambulance,ICU,Pediatric,,Clinic
+Emergency,J18,4,Ambulance,ER,General,,Self
+Urgent,J18,2,Referral,General Medicine,General,Isolation,Clinic
+Trauma,E11,4,Referral,ER,General,,Clinic
+Urgent,C34,3,Referral,General Medicine,HDU,,Self
+Elective,C34,4,Ambulance,General Medicine,Pediatric,Ventilator,Clinic
+Urgent,I10,2,Referral,General Medicine,HDU,,Other Hospital
+Trauma,I10,2,Ambulance,General Medicine,General,,Other Hospital
+Elective,C34,3,Ambulance,ER,Pediatric,,Other Hospital
+Elective,N18,4,Ambulance,Surgery,ICU,,Other Hospital
+Elective,K35,4,Ambulance,General Medicine,Pediatric,,Other Hospital
+Elective,J18,1,Ambulance,ICU,General,,Other Hospital
+Elective,K35,5,Ambulance,General Medicine,Pediatric,Dialysis,Other Hospital
+Emergency,J18,2,Ambulance,ER,ICU,,Other Hospital
+Emergency,C34,1,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,I10,2,Walk-in,ICU,Pediatric,,Self
+Emergency,N18,1,Walk-in,ER,ICU,Isolation,Self
+Emergency,I10,5,Ambulance,General Medicine,HDU,Ventilator,Other Hospital
+Emergency,K35,1,Ambulance,ICU,Pediatric,,Self
+Elective,I10,2,Walk-in,ER,ICU,,Self
+Emergency,C34,4,Walk-in,General Medicine,ICU,,Other Hospital
+Urgent,N18,2,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,K35,3,Walk-in,ER,HDU,,Self
+Emergency,N18,3,Referral,General Medicine,Pediatric,Isolation,Other Hospital
+Urgent,J18,3,Ambulance,ER,ICU,,Other Hospital
+Elective,I10,3,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,N18,5,Ambulance,General Medicine,ICU,,Other Hospital
+Urgent,E11,4,Walk-in,General Medicine,General,,Self
+Urgent,I10,4,Ambulance,General Medicine,Pediatric,,Clinic
+Emergency,J18,2,Ambulance,ICU,Pediatric,,Self
+Emergency,N18,1,Ambulance,Surgery,ICU,Isolation,Clinic
+Trauma,K35,2,Referral,General Medicine,ICU,,Clinic
+Elective,J18,2,Walk-in,ICU,ICU,,Clinic
+Elective,E11,2,Walk-in,ER,ICU,,Self
+Urgent,N18,2,Referral,ER,Pediatric,,Self
+Emergency,S72,4,Ambulance,ICU,ICU,Isolation,Self
+Emergency,S72,1,Referral,Surgery,Pediatric,Ventilator,Self
+Emergency,C34,2,Walk-in,ICU,HDU,,Self
+Urgent,I10,4,Ambulance,ER,Pediatric,,Clinic
+Elective,K35,2,Referral,ER,ICU,,Self
+Elective,C34,3,Referral,General Medicine,ICU,,Clinic
+Emergency,N18,2,Referral,Surgery,HDU,,Self
+Emergency,S72,2,Ambulance,ICU,Pediatric,Dialysis,Self
+Emergency,S72,5,Referral,ER,HDU,,Other Hospital
+Urgent,S72,3,Referral,ER,Pediatric,,Clinic
+Elective,N18,1,Ambulance,ER,ICU,,Self
+Emergency,S72,2,Ambulance,ICU,Pediatric,Ventilator,Self
+Urgent,J18,1,Ambulance,ICU,ICU,,Self
+Emergency,N18,3,Referral,Surgery,ICU,Isolation,Other Hospital
+Trauma,K35,2,Walk-in,General Medicine,General,,Clinic
+Emergency,C34,5,Ambulance,General Medicine,General,,Self
+Elective,K35,4,Ambulance,General Medicine,Pediatric,Isolation,Self
+Emergency,E11,5,Ambulance,ER,ICU,,Self
+Trauma,S72,5,Walk-in,General Medicine,HDU,,Other Hospital
+Emergency,E11,4,Ambulance,ER,ICU,Isolation,Self
+Emergency,I10,4,Referral,Surgery,HDU,Ventilator,Clinic
+Emergency,I10,4,Walk-in,ER,Pediatric,,Clinic
+Emergency,E11,2,Walk-in,Surgery,Pediatric,,Clinic
+Emergency,N18,1,Ambulance,Surgery,HDU,,Clinic
+Trauma,K35,1,Ambulance,General Medicine,HDU,,Self
+Emergency,E11,4,Ambulance,General Medicine,ICU,,Other Hospital
+Urgent,I10,5,Ambulance,ER,Pediatric,,Other Hospital
+Elective,E11,3,Ambulance,ICU,ICU,,Other Hospital
+Elective,N18,4,Referral,General Medicine,HDU,,Self
+Emergency,E11,5,Ambulance,General Medicine,General,,Other Hospital
+Emergency,K35,5,Ambulance,ICU,General,,Clinic
+Urgent,C34,2,Ambulance,ICU,General,Ventilator,Self
+Trauma,N18,2,Ambulance,General Medicine,HDU,Dialysis,Other Hospital
+Emergency,I10,1,Referral,ICU,ICU,,Clinic
+Emergency,K35,1,Ambulance,ER,Pediatric,,Clinic
+Emergency,E11,3,Ambulance,Surgery,HDU,,Self
+Trauma,E11,3,Walk-in,Surgery,General,,Self
+Emergency,C34,3,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,I10,3,Ambulance,General Medicine,Pediatric,Ventilator,Other Hospital
+Urgent,I10,5,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,J18,5,Ambulance,ICU,HDU,,Self
+Emergency,I10,1,Ambulance,General Medicine,HDU,Isolation,Other Hospital
+Elective,C34,2,Ambulance,Surgery,Pediatric,,Other Hospital
+Trauma,S72,2,Referral,ER,Pediatric,,Clinic
+Emergency,J18,4,Ambulance,ER,General,Ventilator,Clinic
+Emergency,J18,5,Walk-in,ICU,Pediatric,,Clinic
+Emergency,E11,3,Walk-in,General Medicine,HDU,Dialysis,Other Hospital
+Emergency,E11,3,Walk-in,General Medicine,ICU,,Self
+Elective,I10,4,Ambulance,ER,General,,Clinic
+Emergency,J18,2,Ambulance,Surgery,General,,Self
+Emergency,E11,3,Walk-in,General Medicine,Pediatric,,Other Hospital
+Emergency,C34,2,Walk-in,Surgery,ICU,,Other Hospital
+Elective,E11,4,Walk-in,ER,General,,Clinic
+Elective,N18,2,Ambulance,General Medicine,HDU,Isolation,Self
+Urgent,N18,2,Referral,Surgery,Pediatric,,Clinic
+Emergency,E11,2,Ambulance,ER,HDU,Ventilator,Other Hospital
+Urgent,J18,3,Ambulance,Surgery,Pediatric,,Self
+Urgent,S72,1,Ambulance,General Medicine,General,Isolation,Clinic
+Emergency,S72,5,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,J18,2,Ambulance,Surgery,ICU,Dialysis,Clinic
+Emergency,K35,2,Walk-in,ICU,HDU,,Self
+Emergency,S72,2,Referral,General Medicine,ICU,,Self
+Emergency,N18,1,Referral,ICU,HDU,,Self
+Emergency,C34,4,Ambulance,ER,HDU,,Self
+Emergency,J18,3,Walk-in,ICU,Pediatric,,Self
+Urgent,I10,1,Ambulance,Surgery,General,,Clinic
+Emergency,N18,2,Ambulance,Surgery,General,Isolation,Clinic
+Urgent,C34,1,Ambulance,ICU,ICU,,Clinic
+Elective,C34,1,Ambulance,ER,Pediatric,,Clinic
+Urgent,J18,1,Ambulance,General Medicine,General,,Other Hospital
+Elective,C34,4,Ambulance,ICU,HDU,,Other Hospital
+Emergency,J18,5,Walk-in,Surgery,HDU,,Clinic
+Elective,S72,3,Referral,Surgery,Pediatric,,Other Hospital
+Emergency,E11,4,Ambulance,ICU,ICU,,Other Hospital
+Emergency,N18,4,Referral,ICU,Pediatric,,Self
+Trauma,K35,5,Walk-in,ICU,ICU,Dialysis,Clinic
+Emergency,E11,4,Walk-in,General Medicine,Pediatric,,Other Hospital
+Emergency,N18,1,Walk-in,Surgery,HDU,,Other Hospital
+Urgent,J18,1,Ambulance,Surgery,Pediatric,,Clinic
+Urgent,N18,2,Referral,Surgery,General,Isolation,Self
+Elective,S72,4,Walk-in,General Medicine,General,Ventilator,Clinic
+Emergency,J18,2,Referral,ER,Pediatric,,Self
+Elective,E11,3,Walk-in,Surgery,ICU,Isolation,Other Hospital
+Emergency,I10,1,Referral,Surgery,ICU,,Self
+Urgent,I10,3,Walk-in,ER,HDU,,Self
+Trauma,N18,5,Ambulance,General Medicine,HDU,,Clinic
+Urgent,I10,1,Ambulance,ER,ICU,Isolation,Other Hospital
+Urgent,J18,3,Ambulance,ER,Pediatric,,Clinic
+Emergency,C34,5,Ambulance,ER,HDU,,Clinic
+Urgent,J18,3,Ambulance,ER,ICU,,Other Hospital
+Urgent,C34,5,Referral,General Medicine,ICU,,Clinic
+Emergency,E11,5,Walk-in,General Medicine,Pediatric,,Clinic
+Urgent,K35,1,Referral,ER,General,,Self
+Emergency,C34,2,Referral,ICU,ICU,,Clinic
+Elective,I10,5,Walk-in,ICU,HDU,,Other Hospital
+Urgent,J18,5,Referral,ICU,Pediatric,,Clinic
+Elective,E11,1,Walk-in,ICU,Pediatric,,Self
+Emergency,I10,2,Referral,Surgery,Pediatric,,Clinic
+Elective,E11,4,Ambulance,General Medicine,General,Ventilator,Clinic
+Elective,K35,4,Ambulance,General Medicine,General,,Clinic
+Trauma,S72,2,Ambulance,ER,HDU,,Self
+Emergency,J18,3,Walk-in,Surgery,HDU,,Other Hospital
+Emergency,N18,1,Walk-in,ER,Pediatric,,Other Hospital
+Urgent,J18,2,Ambulance,ER,HDU,,Self
+Emergency,K35,4,Ambulance,General Medicine,ICU,,Self
+Elective,J18,5,Referral,Surgery,General,,Clinic
+Elective,N18,4,Walk-in,ICU,Pediatric,,Other Hospital
+Urgent,C34,5,Ambulance,General Medicine,Pediatric,,Self
+Elective,E11,1,Walk-in,Surgery,ICU,,Other Hospital
+Elective,N18,5,Walk-in,Surgery,ICU,,Clinic
+Emergency,I10,2,Referral,General Medicine,ICU,,Self
+Emergency,K35,5,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,C34,3,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,I10,2,Ambulance,ER,General,,Clinic
+Elective,I10,1,Ambulance,ER,General,Ventilator,Self
+Urgent,K35,2,Referral,ICU,ICU,,Other Hospital
+Elective,C34,3,Ambulance,General Medicine,HDU,,Clinic
+Urgent,S72,1,Referral,Surgery,Pediatric,,Other Hospital
+Trauma,I10,4,Ambulance,General Medicine,General,,Clinic
+Urgent,I10,3,Referral,Surgery,ICU,,Other Hospital
+Elective,C34,1,Ambulance,ICU,HDU,,Other Hospital
+Elective,J18,5,Referral,General Medicine,HDU,,Clinic
+Emergency,I10,2,Referral,Surgery,ICU,,Self
+Emergency,E11,1,Referral,Surgery,Pediatric,,Clinic
+Emergency,C34,2,Ambulance,ER,General,,Self
+Trauma,I10,5,Ambulance,ICU,HDU,,Other Hospital
+Urgent,K35,1,Walk-in,General Medicine,General,Isolation,Other Hospital
+Emergency,N18,4,Ambulance,ER,General,,Clinic
+Emergency,E11,3,Ambulance,ICU,HDU,,Clinic
+Urgent,N18,1,Ambulance,ER,ICU,,Self
+Emergency,N18,5,Walk-in,General Medicine,HDU,,Self
+Emergency,I10,1,Walk-in,Surgery,HDU,Isolation,Self
+Urgent,E11,2,Ambulance,General Medicine,Pediatric,Dialysis,Clinic
+Emergency,E11,1,Ambulance,ICU,General,,Other Hospital
+Emergency,J18,4,Ambulance,General Medicine,ICU,,Clinic
+Elective,N18,1,Walk-in,ICU,General,,Other Hospital
+Urgent,E11,3,Ambulance,ER,HDU,,Clinic
+Elective,J18,1,Ambulance,ICU,ICU,,Clinic
+Emergency,C34,2,Referral,Surgery,ICU,,Self
+Emergency,J18,1,Referral,Surgery,ICU,Isolation,Other Hospital
+Emergency,K35,4,Referral,Surgery,ICU,,Clinic
+Elective,S72,5,Referral,ER,Pediatric,Ventilator,Clinic
+Urgent,I10,1,Ambulance,ICU,ICU,,Other Hospital
+Emergency,C34,1,Walk-in,ER,HDU,Ventilator,Clinic
+Urgent,S72,3,Ambulance,General Medicine,Pediatric,,Other Hospital
+Emergency,S72,4,Walk-in,General Medicine,HDU,Dialysis,Self
+Emergency,C34,5,Ambulance,General Medicine,HDU,,Self
+Emergency,K35,2,Walk-in,General Medicine,General,,Other Hospital
+Emergency,J18,1,Walk-in,Surgery,ICU,,Self
+Elective,I10,5,Ambulance,ICU,ICU,Isolation,Other Hospital
+Elective,J18,2,Walk-in,Surgery,HDU,Ventilator,Clinic
+Emergency,E11,4,Ambulance,ICU,ICU,Dialysis,Clinic
+Elective,J18,4,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,C34,5,Ambulance,ER,General,,Clinic
+Urgent,I10,2,Ambulance,General Medicine,ICU,Isolation,Self
+Trauma,J18,4,Ambulance,ICU,ICU,Isolation,Clinic
+Emergency,I10,5,Referral,General Medicine,Pediatric,,Clinic
+Elective,I10,4,Ambulance,General Medicine,General,Ventilator,Other Hospital
+Emergency,E11,4,Ambulance,General Medicine,Pediatric,Ventilator,Self
+Emergency,E11,4,Ambulance,Surgery,HDU,Isolation,Clinic
+Emergency,C34,3,Walk-in,General Medicine,HDU,Isolation,Clinic
+Urgent,K35,2,Walk-in,ICU,ICU,,Other Hospital
+Elective,S72,5,Walk-in,Surgery,General,Isolation,Other Hospital
+Emergency,I10,5,Walk-in,General Medicine,HDU,,Self
+Urgent,K35,2,Referral,ER,Pediatric,,Clinic
+Elective,S72,2,Referral,General Medicine,HDU,,Other Hospital
+Urgent,S72,2,Walk-in,General Medicine,HDU,,Other Hospital
+Elective,C34,2,Ambulance,Surgery,Pediatric,Isolation,Other Hospital
+Elective,S72,1,Walk-in,ICU,ICU,,Self
+Emergency,S72,5,Walk-in,General Medicine,General,,Other Hospital
+Emergency,I10,1,Walk-in,Surgery,ICU,,Self
+Trauma,I10,4,Referral,Surgery,Pediatric,Ventilator,Self
+Emergency,N18,4,Walk-in,ICU,HDU,,Clinic
+Trauma,K35,5,Referral,Surgery,General,Dialysis,Clinic
+Elective,J18,4,Ambulance,ICU,ICU,,Self
+Emergency,E11,2,Ambulance,ER,Pediatric,,Clinic
+Emergency,J18,1,Ambulance,General Medicine,HDU,,Clinic
+Emergency,K35,2,Referral,Surgery,HDU,,Other Hospital
+Trauma,E11,4,Referral,ER,ICU,,Clinic
+Emergency,J18,1,Walk-in,Surgery,Pediatric,,Self
+Emergency,N18,2,Walk-in,Surgery,HDU,Isolation,Clinic
+Emergency,E11,5,Walk-in,ER,HDU,,Other Hospital
+Emergency,I10,2,Referral,Surgery,General,,Self
+Emergency,J18,4,Referral,Surgery,HDU,,Clinic
+Emergency,E11,1,Walk-in,ER,ICU,Ventilator,Self
+Urgent,N18,5,Walk-in,Surgery,Pediatric,,Clinic
+Emergency,S72,1,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,E11,5,Walk-in,Surgery,General,,Clinic
+Emergency,E11,1,Ambulance,General Medicine,Pediatric,,Self
+Emergency,N18,4,Ambulance,Surgery,ICU,Isolation,Self
+Trauma,S72,5,Referral,General Medicine,HDU,,Self
+Elective,J18,3,Walk-in,General Medicine,General,Ventilator,Clinic
+Emergency,C34,1,Referral,Surgery,Pediatric,,Clinic
+Elective,J18,1,Ambulance,ER,General,,Clinic
+Emergency,S72,2,Ambulance,ICU,General,,Other Hospital
+Emergency,K35,5,Ambulance,ICU,Pediatric,,Other Hospital
+Trauma,N18,3,Ambulance,Surgery,General,Ventilator,Other Hospital
+Urgent,J18,4,Ambulance,ER,Pediatric,,Self
+Trauma,E11,2,Ambulance,ER,ICU,,Self
+Emergency,N18,3,Ambulance,ICU,Pediatric,,Self
+Elective,I10,5,Ambulance,ER,HDU,Isolation,Self
+Emergency,S72,3,Ambulance,Surgery,Pediatric,,Self
+Emergency,J18,1,Walk-in,Surgery,HDU,Isolation,Clinic
+Urgent,N18,1,Ambulance,ER,General,,Self
+Emergency,J18,2,Walk-in,Surgery,Pediatric,Isolation,Clinic
+Urgent,N18,5,Walk-in,General Medicine,HDU,,Other Hospital
+Urgent,E11,5,Ambulance,ICU,Pediatric,Ventilator,Other Hospital
+Emergency,I10,3,Referral,Surgery,Pediatric,,Other Hospital
+Elective,I10,2,Walk-in,ER,Pediatric,,Other Hospital
+Elective,K35,5,Walk-in,ICU,ICU,,Other Hospital
+Emergency,N18,1,Ambulance,Surgery,HDU,,Self
+Urgent,J18,3,Walk-in,ICU,ICU,,Self
+Elective,I10,4,Referral,ER,ICU,,Self
+Emergency,S72,1,Ambulance,General Medicine,HDU,,Other Hospital
+Elective,I10,2,Ambulance,General Medicine,Pediatric,Isolation,Other Hospital
+Trauma,C34,5,Ambulance,Surgery,ICU,,Clinic
+Emergency,C34,1,Walk-in,General Medicine,ICU,,Self
+Urgent,I10,4,Ambulance,Surgery,ICU,Isolation,Other Hospital
+Emergency,N18,4,Walk-in,ICU,Pediatric,Ventilator,Other Hospital
+Urgent,K35,2,Ambulance,Surgery,ICU,,Other Hospital
+Urgent,I10,1,Referral,Surgery,General,,Clinic
+Emergency,E11,3,Ambulance,Surgery,HDU,,Other Hospital
+Emergency,J18,1,Ambulance,General Medicine,General,,Clinic
+Urgent,K35,4,Walk-in,Surgery,Pediatric,,Clinic
+Emergency,E11,2,Ambulance,ER,ICU,,Self
+Urgent,K35,2,Ambulance,Surgery,HDU,Ventilator,Other Hospital
+Emergency,E11,3,Ambulance,ICU,ICU,,Clinic
+Urgent,J18,2,Walk-in,ER,Pediatric,Dialysis,Other Hospital
+Urgent,J18,2,Referral,ICU,HDU,,Self
+Trauma,C34,2,Referral,ICU,General,,Self
+Emergency,N18,2,Ambulance,ICU,HDU,,Clinic
+Elective,E11,2,Ambulance,ER,ICU,Isolation,Self
+Elective,C34,4,Walk-in,ER,HDU,,Self
+Emergency,E11,1,Walk-in,General Medicine,Pediatric,,Self
+Emergency,C34,5,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,J18,2,Ambulance,Surgery,HDU,,Other Hospital
+Urgent,K35,5,Ambulance,ICU,Pediatric,Ventilator,Clinic
+Elective,S72,5,Walk-in,General Medicine,Pediatric,,Clinic
+Emergency,C34,4,Ambulance,ER,Pediatric,,Self
+Elective,E11,2,Referral,ICU,General,,Self
+Emergency,E11,5,Ambulance,ER,ICU,,Clinic
+Emergency,S72,2,Ambulance,General Medicine,Pediatric,,Self
+Trauma,N18,3,Ambulance,ER,HDU,,Clinic
+Trauma,J18,3,Ambulance,ER,Pediatric,,Other Hospital
+Elective,E11,3,Ambulance,ICU,General,,Self
+Emergency,I10,5,Ambulance,Surgery,HDU,Dialysis,Self
+Urgent,K35,3,Ambulance,ER,ICU,,Self
+Emergency,C34,4,Ambulance,General Medicine,HDU,,Other Hospital
+Emergency,N18,4,Ambulance,ER,HDU,,Other Hospital
+Emergency,S72,5,Referral,ER,HDU,,Self
+Elective,K35,2,Walk-in,Surgery,HDU,,Clinic
+Elective,J18,1,Walk-in,ICU,Pediatric,,Other Hospital
+Emergency,N18,2,Ambulance,General Medicine,ICU,,Self
+Elective,C34,2,Ambulance,ICU,Pediatric,Ventilator,Self
+Trauma,C34,2,Ambulance,ICU,General,,Other Hospital
+Emergency,S72,2,Walk-in,ICU,General,,Clinic
+Urgent,I10,1,Ambulance,ER,HDU,Isolation,Self
+Urgent,S72,3,Ambulance,Surgery,Pediatric,,Clinic
+Emergency,J18,2,Walk-in,ER,Pediatric,,Clinic
+Emergency,N18,4,Ambulance,General Medicine,ICU,,Other Hospital
+Elective,N18,5,Ambulance,Surgery,ICU,,Self
+Elective,E11,5,Ambulance,ICU,ICU,,Self
+Urgent,I10,4,Walk-in,Surgery,Pediatric,,Clinic
+Emergency,I10,2,Walk-in,General Medicine,ICU,,Other Hospital
+Trauma,N18,1,Ambulance,ER,ICU,Isolation,Other Hospital
+Emergency,N18,3,Ambulance,ER,ICU,Ventilator,Other Hospital
+Emergency,K35,5,Walk-in,ICU,HDU,,Clinic
+Elective,K35,3,Ambulance,ER,General,,Clinic
+Emergency,K35,1,Walk-in,ER,General,,Self
+Emergency,I10,5,Walk-in,General Medicine,Pediatric,,Other Hospital
+Emergency,E11,3,Ambulance,Surgery,Pediatric,,Clinic
+Emergency,C34,1,Ambulance,ER,HDU,,Other Hospital
+Emergency,K35,3,Walk-in,General Medicine,General,,Clinic
+Trauma,E11,2,Ambulance,General Medicine,ICU,,Self
+Emergency,S72,1,Ambulance,ICU,ICU,,Other Hospital
+Urgent,J18,3,Walk-in,General Medicine,Pediatric,Ventilator,Clinic
+Urgent,K35,2,Ambulance,ICU,General,,Other Hospital
+Trauma,S72,2,Ambulance,ER,Pediatric,,Clinic
+Emergency,C34,1,Ambulance,ICU,Pediatric,,Clinic
+Urgent,J18,4,Walk-in,General Medicine,ICU,Ventilator,Clinic
+Elective,J18,5,Ambulance,Surgery,ICU,,Other Hospital
+Elective,C34,1,Referral,Surgery,General,Ventilator,Clinic
+Elective,K35,2,Walk-in,ER,Pediatric,,Self
+Urgent,I10,2,Ambulance,ER,HDU,,Other Hospital
+Emergency,C34,1,Ambulance,Surgery,General,,Self
+Urgent,C34,4,Ambulance,ICU,Pediatric,,Self
+Elective,C34,5,Walk-in,ER,General,Ventilator,Other Hospital
+Urgent,J18,3,Referral,General Medicine,General,Ventilator,Clinic
+Trauma,E11,1,Walk-in,ER,General,,Self
+Emergency,S72,5,Ambulance,ICU,HDU,Ventilator,Other Hospital
+Trauma,I10,5,Walk-in,ER,HDU,Isolation,Clinic
+Emergency,K35,2,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,K35,3,Walk-in,General Medicine,ICU,,Other Hospital
+Emergency,S72,1,Walk-in,General Medicine,Pediatric,,Other Hospital
+Emergency,E11,2,Ambulance,ICU,General,Isolation,Clinic
+Elective,C34,2,Ambulance,ICU,Pediatric,,Self
+Emergency,I10,4,Walk-in,General Medicine,ICU,,Self
+Emergency,K35,5,Walk-in,General Medicine,HDU,,Other Hospital
+Trauma,S72,1,Ambulance,ICU,ICU,Isolation,Other Hospital
+Urgent,N18,1,Ambulance,ICU,Pediatric,,Clinic
+Urgent,S72,1,Walk-in,ICU,ICU,,Other Hospital
+Urgent,K35,2,Ambulance,Surgery,Pediatric,,Other Hospital
+Urgent,C34,4,Ambulance,ICU,Pediatric,,Other Hospital
+Emergency,N18,3,Ambulance,General Medicine,Pediatric,Isolation,Self
+Emergency,E11,2,Ambulance,Surgery,Pediatric,Ventilator,Other Hospital
+Urgent,I10,3,Walk-in,ICU,ICU,,Self
+Emergency,E11,4,Referral,General Medicine,Pediatric,,Clinic
+Elective,E11,5,Walk-in,ER,Pediatric,,Clinic
+Emergency,S72,1,Ambulance,Surgery,General,,Self
+Emergency,I10,3,Walk-in,General Medicine,Pediatric,,Self
+Elective,I10,2,Ambulance,ER,ICU,,Self
+Elective,K35,3,Ambulance,General Medicine,Pediatric,Ventilator,Self
+Elective,K35,5,Referral,ICU,HDU,,Other Hospital
+Elective,I10,1,Ambulance,ICU,HDU,,Self
+Emergency,N18,3,Referral,ER,Pediatric,Ventilator,Self
+Emergency,J18,5,Ambulance,ICU,HDU,,Self
+Urgent,K35,2,Walk-in,General Medicine,HDU,,Other Hospital
+Elective,J18,4,Ambulance,ER,ICU,,Other Hospital
+Emergency,S72,2,Ambulance,General Medicine,General,,Other Hospital
+Urgent,N18,1,Ambulance,General Medicine,HDU,,Clinic
+Emergency,I10,2,Referral,General Medicine,HDU,Ventilator,Other Hospital
+Emergency,N18,2,Walk-in,ICU,General,,Self
+Emergency,K35,2,Referral,ICU,General,,Other Hospital
+Urgent,E11,2,Walk-in,General Medicine,HDU,,Other Hospital
+Elective,S72,1,Referral,Surgery,Pediatric,Ventilator,Self
+Emergency,I10,5,Ambulance,General Medicine,HDU,Dialysis,Other Hospital
+Urgent,C34,3,Ambulance,General Medicine,Pediatric,,Clinic
+Emergency,S72,4,Walk-in,ER,Pediatric,,Other Hospital
+Emergency,J18,3,Walk-in,General Medicine,Pediatric,,Clinic
+Emergency,N18,3,Walk-in,ICU,General,,Clinic
+Emergency,I10,4,Ambulance,ER,HDU,,Clinic
+Emergency,S72,1,Ambulance,Surgery,HDU,,Self
+Elective,N18,4,Referral,ER,ICU,,Other Hospital
+Urgent,I10,1,Walk-in,Surgery,General,,Clinic
+Elective,K35,3,Ambulance,ER,ICU,Dialysis,Clinic
+Emergency,S72,1,Walk-in,ER,ICU,,Other Hospital
+Emergency,K35,5,Referral,Surgery,Pediatric,,Self
+Emergency,S72,4,Ambulance,ICU,General,,Self
+Emergency,K35,5,Referral,ICU,ICU,Isolation,Clinic
+Urgent,N18,3,Referral,ICU,HDU,,Self
+Emergency,C34,4,Referral,ER,ICU,,Other Hospital
+Urgent,S72,3,Referral,General Medicine,General,,Self
+Urgent,S72,5,Walk-in,ER,HDU,Dialysis,Other Hospital
+Emergency,K35,3,Ambulance,General Medicine,HDU,,Clinic
+Urgent,I10,4,Ambulance,General Medicine,HDU,,Other Hospital
+Elective,S72,4,Ambulance,ICU,Pediatric,,Clinic
+Elective,K35,3,Ambulance,General Medicine,HDU,Dialysis,Other Hospital
+Elective,E11,4,Ambulance,ER,Pediatric,,Other Hospital
+Emergency,K35,4,Ambulance,ER,Pediatric,,Self
+Emergency,N18,3,Ambulance,ICU,ICU,Ventilator,Other Hospital
+Emergency,C34,5,Ambulance,Surgery,ICU,,Clinic
+Emergency,E11,4,Referral,ER,HDU,,Other Hospital
+Elective,N18,4,Ambulance,General Medicine,General,,Clinic
+Emergency,N18,4,Walk-in,ER,HDU,,Clinic
+Trauma,N18,4,Walk-in,ER,ICU,,Other Hospital
+Urgent,I10,3,Ambulance,ER,HDU,,Self
+Emergency,N18,5,Referral,Surgery,ICU,Ventilator,Other Hospital
+Emergency,I10,5,Walk-in,General Medicine,HDU,,Other Hospital
+Urgent,N18,1,Ambulance,ICU,General,,Self
+Urgent,J18,4,Ambulance,ER,HDU,,Clinic
+Urgent,E11,4,Ambulance,General Medicine,General,,Other Hospital
+Emergency,J18,1,Ambulance,General Medicine,General,,Self
+Emergency,N18,5,Ambulance,ICU,HDU,,Self
+Emergency,E11,2,Walk-in,ER,General,,Clinic
+Emergency,E11,2,Referral,Surgery,General,Ventilator,Self
+Urgent,S72,5,Walk-in,General Medicine,ICU,,Clinic
+Urgent,C34,4,Ambulance,ICU,ICU,,Other Hospital
+Elective,J18,2,Ambulance,Surgery,General,Ventilator,Self
+Urgent,C34,3,Ambulance,General Medicine,Pediatric,Ventilator,Other Hospital
+Elective,E11,3,Ambulance,ER,HDU,,Self
+Emergency,I10,1,Ambulance,General Medicine,General,,Self
+Emergency,E11,5,Referral,Surgery,HDU,,Other Hospital
+Trauma,C34,5,Ambulance,Surgery,ICU,,Self
+Emergency,J18,2,Referral,ER,HDU,,Other Hospital
+Trauma,N18,4,Ambulance,ER,General,,Other Hospital
+Urgent,S72,5,Referral,ICU,General,Isolation,Clinic
+Emergency,S72,2,Walk-in,ER,General,Isolation,Other Hospital
+Elective,S72,2,Walk-in,ICU,General,,Clinic
+Urgent,N18,5,Ambulance,Surgery,Pediatric,,Other Hospital
+Elective,S72,2,Referral,Surgery,Pediatric,,Self
+Trauma,J18,1,Referral,General Medicine,Pediatric,,Other Hospital
+Trauma,N18,1,Walk-in,General Medicine,General,Isolation,Self
+Emergency,S72,5,Walk-in,ICU,Pediatric,,Clinic
+Emergency,N18,4,Walk-in,ER,HDU,,Self
+Trauma,C34,1,Ambulance,ER,General,Ventilator,Other Hospital
+Elective,J18,1,Walk-in,General Medicine,ICU,,Self
+Emergency,K35,5,Referral,Surgery,General,,Clinic
+Emergency,I10,3,Ambulance,ICU,HDU,Dialysis,Self
+Elective,S72,2,Ambulance,Surgery,Pediatric,,Self
+Trauma,I10,1,Ambulance,Surgery,General,Isolation,Other Hospital
+Urgent,N18,3,Walk-in,ER,Pediatric,,Other Hospital
+Elective,I10,4,Ambulance,ICU,General,,Self
+Emergency,J18,3,Ambulance,Surgery,HDU,,Clinic
+Emergency,J18,5,Ambulance,General Medicine,General,,Self
+Urgent,E11,4,Walk-in,General Medicine,Pediatric,Isolation,Clinic
+Emergency,S72,4,Ambulance,ER,Pediatric,,Clinic
+Emergency,E11,3,Walk-in,General Medicine,HDU,,Clinic
+Emergency,I10,5,Ambulance,General Medicine,General,,Self
+Elective,K35,1,Walk-in,Surgery,ICU,Isolation,Clinic
+Trauma,E11,3,Referral,General Medicine,General,Dialysis,Self
+Emergency,E11,1,Ambulance,General Medicine,HDU,,Clinic
+Emergency,J18,3,Ambulance,Surgery,ICU,,Clinic
+Elective,K35,1,Referral,ER,HDU,,Self
+Trauma,N18,3,Ambulance,ER,General,,Other Hospital
+Emergency,I10,4,Ambulance,ICU,ICU,,Other Hospital
+Emergency,E11,2,Referral,General Medicine,HDU,,Self
+Emergency,K35,4,Referral,Surgery,Pediatric,,Self
+Urgent,S72,1,Walk-in,ICU,ICU,,Other Hospital
+Emergency,K35,5,Ambulance,ER,ICU,,Other Hospital
+Emergency,I10,4,Ambulance,ER,HDU,,Other Hospital
+Elective,K35,2,Ambulance,Surgery,Pediatric,,Self
+Urgent,K35,1,Walk-in,ICU,ICU,Ventilator,Clinic
+Emergency,K35,4,Walk-in,ICU,HDU,Isolation,Self
+Urgent,S72,3,Referral,Surgery,ICU,,Other Hospital
+Emergency,E11,5,Ambulance,Surgery,ICU,,Clinic
+Elective,I10,1,Walk-in,ICU,ICU,Ventilator,Self
+Emergency,S72,4,Ambulance,ER,Pediatric,,Other Hospital
+Urgent,K35,1,Ambulance,General Medicine,General,,Self
+Emergency,K35,3,Walk-in,ER,General,,Clinic
+Urgent,E11,2,Ambulance,Surgery,Pediatric,,Other Hospital
+Urgent,I10,4,Walk-in,ICU,Pediatric,,Self
+Elective,J18,1,Walk-in,ICU,HDU,,Clinic
+Urgent,S72,1,Referral,General Medicine,ICU,,Clinic
+Urgent,E11,1,Walk-in,ICU,Pediatric,,Self
+Emergency,I10,2,Referral,General Medicine,HDU,Ventilator,Clinic
+Emergency,S72,1,Walk-in,ER,General,,Other Hospital
+Trauma,K35,5,Ambulance,ER,General,Isolation,Clinic
+Emergency,I10,5,Ambulance,ICU,General,,Self
+Urgent,I10,1,Walk-in,ICU,General,Ventilator,Other Hospital
+Trauma,N18,5,Walk-in,Surgery,HDU,,Clinic
+Emergency,I10,4,Walk-in,Surgery,ICU,,Clinic
+Elective,J18,5,Ambulance,ICU,HDU,Ventilator,Other Hospital
+Emergency,I10,1,Ambulance,ICU,ICU,,Other Hospital
+Elective,J18,3,Ambulance,ER,General,Isolation,Clinic
+Emergency,K35,4,Walk-in,ICU,Pediatric,,Other Hospital
+Emergency,J18,2,Walk-in,Surgery,Pediatric,,Self
+Elective,S72,1,Walk-in,ER,Pediatric,,Clinic
+Urgent,K35,2,Ambulance,General Medicine,ICU,,Self
+Urgent,K35,3,Ambulance,Surgery,General,,Clinic
+Elective,J18,2,Walk-in,Surgery,HDU,,Self
+Emergency,E11,1,Walk-in,ER,Pediatric,,Self
+Elective,C34,1,Ambulance,General Medicine,ICU,,Other Hospital
+Emergency,I10,3,Walk-in,Surgery,Pediatric,,Clinic
+Trauma,N18,1,Ambulance,ICU,HDU,,Other Hospital
+Urgent,C34,3,Walk-in,Surgery,General,,Other Hospital
+Urgent,I10,3,Referral,ER,HDU,Ventilator,Clinic
+Trauma,I10,1,Walk-in,ER,General,,Self
+Emergency,K35,5,Walk-in,ER,General,,Clinic
+Urgent,I10,3,Ambulance,Surgery,General,,Clinic
+Emergency,N18,1,Walk-in,General Medicine,Pediatric,Isolation,Clinic
+Trauma,I10,5,Walk-in,ICU,HDU,,Other Hospital
+Emergency,J18,3,Walk-in,ER,Pediatric,Ventilator,Clinic
+Urgent,C34,5,Walk-in,General Medicine,HDU,,Clinic
+Urgent,J18,4,Ambulance,ICU,ICU,,Clinic
+Emergency,N18,4,Referral,ER,ICU,,Self
+Emergency,I10,5,Walk-in,ICU,HDU,,Self
+Urgent,S72,3,Ambulance,ICU,HDU,,Self
+Emergency,N18,1,Walk-in,General Medicine,HDU,,Self
+Emergency,K35,2,Ambulance,ICU,HDU,,Other Hospital
+Emergency,J18,1,Ambulance,ER,General,,Other Hospital
+Emergency,J18,2,Ambulance,General Medicine,Pediatric,,Clinic
+Urgent,E11,2,Walk-in,Surgery,General,,Other Hospital
+Elective,I10,3,Referral,Surgery,Pediatric,Dialysis,Self
+Emergency,K35,5,Walk-in,General Medicine,Pediatric,,Clinic
+Emergency,S72,1,Walk-in,Surgery,Pediatric,Ventilator,Clinic
+Emergency,J18,5,Ambulance,ICU,General,,Self
+Emergency,J18,4,Ambulance,ER,HDU,,Self
+Emergency,K35,3,Ambulance,ICU,General,,Self
+Emergency,N18,3,Walk-in,General Medicine,General,Isolation,Other Hospital
+Emergency,N18,4,Referral,ER,Pediatric,Dialysis,Clinic
+Urgent,I10,1,Ambulance,General Medicine,ICU,,Self
+Emergency,E11,4,Walk-in,General Medicine,ICU,,Clinic
+Elective,J18,1,Referral,General Medicine,General,,Clinic
+Elective,E11,2,Ambulance,ICU,Pediatric,,Other Hospital
+Elective,N18,3,Walk-in,ER,General,,Clinic
+Elective,N18,1,Walk-in,ER,General,Ventilator,Self
+Elective,C34,5,Walk-in,ER,HDU,,Self
+Urgent,S72,5,Ambulance,ICU,Pediatric,Isolation,Clinic
+Elective,I10,3,Walk-in,Surgery,ICU,,Clinic
+Elective,C34,4,Walk-in,ICU,ICU,Isolation,Other Hospital
+Urgent,S72,4,Ambulance,ICU,ICU,,Self
+Elective,C34,1,Walk-in,General Medicine,General,Isolation,Self
+Emergency,C34,4,Ambulance,ER,Pediatric,,Clinic
+Emergency,I10,3,Referral,ER,HDU,Isolation,Clinic
+Emergency,I10,1,Walk-in,Surgery,ICU,,Clinic
+Urgent,K35,2,Referral,Surgery,Pediatric,,Self
+Urgent,E11,4,Ambulance,General Medicine,ICU,Isolation,Clinic
+Trauma,E11,4,Ambulance,ER,HDU,,Other Hospital
+Elective,K35,1,Ambulance,Surgery,Pediatric,,Other Hospital
+Emergency,K35,5,Ambulance,Surgery,General,Ventilator,Clinic
+Emergency,N18,4,Ambulance,ER,General,Isolation,Other Hospital
+Elective,S72,3,Walk-in,ICU,ICU,,Other Hospital
+Elective,C34,4,Ambulance,Surgery,ICU,Isolation,Other Hospital
+Trauma,K35,2,Walk-in,ER,Pediatric,Isolation,Other Hospital
+Emergency,J18,4,Ambulance,Surgery,HDU,,Other Hospital
+Elective,E11,5,Walk-in,General Medicine,ICU,,Self
+Elective,K35,4,Walk-in,Surgery,Pediatric,,Clinic
+Elective,J18,1,Walk-in,ER,HDU,Isolation,Other Hospital
+Elective,J18,4,Referral,Surgery,ICU,,Clinic
