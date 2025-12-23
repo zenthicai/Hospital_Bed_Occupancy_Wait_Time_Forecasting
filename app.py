@@ -64,7 +64,7 @@ st.markdown(
     """
     <style>
     .stApp {
-        background-image: url("C:/Users/Prasad/Desktop/Zenthic AI/Human Resources/HR360/HR_BG.png");
+        background-image: url("https://github.com/zenthicai/Hospital_Bed_Occupancy_Wait_Time_Forecasting/blob/main/HR_BG.png");
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
@@ -1715,4 +1715,5 @@ fig_resid.update_layout(
 st.plotly_chart(fig_resid, use_container_width=True)
 
 st.markdown(" ")
+
 st.markdown(" ")
